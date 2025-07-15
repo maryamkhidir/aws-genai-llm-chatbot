@@ -1,7 +1,7 @@
 {
   "name": "@awssolutions/aws-genai-llm-chatbot",
   "description": "Enterprise-ready generative AI chatbot solution with Retrieval Augmented Generation (RAG) capabilities. Supports multiple LLM providers including Amazon Bedrock, SageMaker, and Nexus Gateway. Features comprehensive RAG implementation, conversation memory, enterprise security, and a modern React interface. Deployable via AWS CDK with flexible configuration options.",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "bin": {
     "aws-genai-llm-chatbot": "bin/aws-genai-llm-chatbot.js"
   },
